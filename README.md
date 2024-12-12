@@ -6,7 +6,7 @@
 
 ### **Screenshot:**
 <p align="center">
-  <img src="https://github.com/MeLegend5555/blob/main/RestartMyExplorer/assets/images/Showcase.png?raw=true" width="300" alt="Screenshot of RestartMyExplorer"/>
+  <img src="https://github.com/MeLegend5555/RestartMyExplorer/blob/main/assets/images/Showcase.png?raw=true" width="300" alt="Screenshot of RestartMyExplorer"/>
 </p>
 
 >[!WARNING]
